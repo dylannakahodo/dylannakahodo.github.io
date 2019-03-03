@@ -7,6 +7,7 @@ Hi there! Thanks for stopping by. My name is Dylan Nakahodo and I'm a Junior Hel
 
 ### Certifications
 GSEC (Dec. 2018 - Dec. 2022)
+GCIH (Feb. 2019 - Feb. 2023)
 
 ### Education
 B.S. Computer Engineering - University of Hawaii at Manoa
