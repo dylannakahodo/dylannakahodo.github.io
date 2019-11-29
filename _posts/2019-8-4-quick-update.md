@@ -1,5 +1,7 @@
 ---
+layout: post
 title: "Quick Update"
+category: Personal
 ---
 
 Wow, it's definitely been a while since my last post. I've been really struggling to work on things lately, so my studying has been slow going. Quick update, I earned my GSEC and GCIH. I've also participated in a few CTFs, but I didn't complete any challenges worth doing a write-up for.  I'm still working through the Network+ and Security+ materials.
