@@ -18,6 +18,7 @@ navigation:                  # show navigation links in the header
   - index.html
   - archive.md
   - about.md
+  - categories.md
 
 iconfolder: "//use.fontawesome.com/releases/v5.6.3/svgs/"
 icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/
