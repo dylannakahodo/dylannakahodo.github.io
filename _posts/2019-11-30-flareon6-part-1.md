@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2019 Flare-On Challenge Writeups: Intro, Challenge 1, Challenge 2"
+title: "2019 Flare-On Challenge Writeups: Challenge 1 and 2"
 category: CTF
 ---
 
