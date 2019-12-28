@@ -110,7 +110,7 @@ $$ Clean = 2 $$
 Jumping back to our emulator, making a new bear, and hitting each action the required number of times leads us to an ecstatic bear and the flag.
 
 <p align="center" markdown="1">
-![win](/assets/flareon6_2019/Challenge3/win.png)
+![win](/assets/flareon6_2019/Challenge3/Win.png)
 </p>
 
 Flag for Challenge 3: `th4t_was_be4rly_a_chall3nge@flare-on.com`
