@@ -86,6 +86,31 @@ __Clean__
 - +6 Clean
 
 This gives us the following three equations.
+
 $$ Mass = 10 * feed - 2 * play + 0 * clean $$
+
 $$ Happy = 2 * feed + 4 * play - 1 * clean $$
+
 $$ Clean = - 1 * feed - 1 * play + 6 * clean $$
+
+Plugging in the desired final stats and solving.
+
+$$ 72 = 10 * feed - 2 * play + 0 * clean $$
+
+$$ 30 = 2 * feed + 4 * play - 1 * clean $$
+
+$$ 0 = - 1 * feed - 1 * play + 6 * clean $$
+
+$$ Feed = 8 $$
+
+$$ Play = 4 $$
+
+$$ Clean = 2 $$
+
+Jumping back to our emulator, making a new bear, and hitting each action the required number of times leads us to an ecstatic bear and the flag.
+
+<p align="center" markdown="1">
+![win](/assets/flareon6_2019/Challenge3/win.png)
+</p>
+
+Flag for Challenge 3: `th4t_was_be4rly_a_chall3nge@flare-on.com`
