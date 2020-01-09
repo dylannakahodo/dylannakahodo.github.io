@@ -18,7 +18,7 @@ I didn't have an environment set up for reverse-engineering on Windows, so befor
 ---
 
 ## Challenge 1
-### MemecatBattlestation.exe
+## MemecatBattlestation.exe
 ### Description
 
 > Welcome to the Sixth Flare-On Challenge! 
@@ -166,7 +166,7 @@ Running the above code yields the final flag: `Kitteh_save_galixy@flare-on.com`
 ---
 
 ## Challenge 2
-### Overlong.exe
+## Overlong.exe
 ### Description
 > The secret of this next challenge is cleverly hidden. However, with the right approach, finding the solution will not take an <b>overlong</b> amount of time.
 
