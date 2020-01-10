@@ -5,7 +5,7 @@ title: "About"
 
 My name is Dylan Nakahodo and I'm seeking a Security Analyst role. I'm currently living in New York but originally I'm from Hawaii. I attended the University of Hawaii at Manoa where I graduated with a degree in Computer Engineering.
 
-Some topics of interest of mine are reverse-engineering, network and webapp pentesting, and programming.
+Some topics of interest of mine are reverse-engineering, network and web pentesting, and programming.
 
 In my free time, I enjoy participating in [CTFs](https://ctfd.io/whats-a-ctf/), [HackTheBox](https://www.hackthebox.eu/), and learning about different security related topics. The purpose of this blog is to share writeups, what I'm currently working on, and anything I find interesting.
 
