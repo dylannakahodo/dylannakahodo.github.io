@@ -21,9 +21,11 @@ GIAC Certified Incident Handler (GCIH): Feb. 2019 - Feb. 2023
 B.S. Computer Engineering - University of Hawaii at Manoa
 
 ### Extras
-CTF Team (CTFTime): [Green Eggs and Sp4m](https://ctftime.org/team/106764)
+CTF Team 2020 (CTFTime): [Green Eggs and Sp4m](https://ctftime.org/team/106764)
 
-CTF Solo (CTFTime): [JustNotBob](https://ctftime.org/team/62698)
+CTF Solo Team 2019 (CTFTime): [JustNotBob](https://ctftime.org/team/62698)
+- Placed 837 overall worldwide
+- Placed 94 in the US
 
 HackTheBox: [JustNotBob](https://www.hackthebox.eu/profile/35547)
 
