@@ -21,12 +21,12 @@ GIAC Certified Incident Handler (GCIH): Feb. 2019 - Feb. 2023
 B.S. Computer Engineering - University of Hawaii at Manoa
 
 ### Extras
-CTF Team 2020 (CTFTime): [Green Eggs and Sp4m](https://ctftime.org/team/106764)
+[CTF Team 2020 (CTFTime)](https://ctftime.org/team/106764)
 
-CTF Solo Team 2019 (CTFTime): [JustNotBob](https://ctftime.org/team/62698)
+[CTF Solo Team 2019 (CTFTime)](https://ctftime.org/team/62698)
 
 
-HackTheBox: [JustNotBob](https://www.hackthebox.eu/profile/35547)
+[HackTheBox](https://www.hackthebox.eu/profile/35547)
 
 ### Contact
 You can reach me via my socials or by email at contact@_firstnamelastname_.dev
