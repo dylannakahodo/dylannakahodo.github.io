@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Quick Update"
+permalink: /posts/quick-update
 category: Personal
 ---
 

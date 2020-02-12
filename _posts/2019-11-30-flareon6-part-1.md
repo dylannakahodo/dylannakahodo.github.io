@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2019 Flare-On Challenge Writeups: Challenge 1 and 2"
+permalink: /posts/flareon6-part-1
 category: CTF
 ---
 
