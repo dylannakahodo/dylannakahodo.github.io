@@ -29,7 +29,7 @@ layout: default
 </article>
 {% if page.previous.url or page.next.url %}
 <footer>
-  {% if page.previous.url %}<a class="gray" href="{{ page.previous.url | relative_url }}">« {{ page.previous.title }} </a>{% else %}<span></span>{% endif %}
-  {% if page.next.url %}<a class="gray" href="{{ page.next.url | relative_url }}"> {{ page.next.title }} »</a>{% else %} <span></span>{% endif %}
+  {% if page.next.url %}<a class="gray" href="{{ page.next.url | relative_url }}"> {{« page.next.title }} </a>{% else %} <span></span>{% endif %}
+  {% if page.previous.url %}<a class="gray" href="{{ page.previous.url | relative_url }}"> {{ page.previous.title »}} </a>{% else %}<span></span>{% endif %}
 </footer>
 {% endif %}
