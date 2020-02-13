@@ -10,7 +10,7 @@ title: Categories
   <h3>{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a> - <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format )}}</time> </li>
+      <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format )}}</time> - <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
