@@ -19,6 +19,7 @@ navigation:                  # show navigation links in the header
   - index.html
   - archive.md
   - categories.md
+  - tags.md
   - projects.md
   - about.md
 

@@ -16,6 +16,7 @@ layout: default
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}
       </div>
+      <small>
       <div class="post-tags">
         {% if post %}
           {% assign tags = post.tags %}
@@ -27,6 +28,7 @@ layout: default
         <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{tag}}</a>{% unless forloop.last %},{% endunless %}
         {% endfor %}
       </div>
+    </small>
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: date_format }}</time>
   </header>
 {{ content }}
