@@ -3,7 +3,7 @@ layout: post
 title: "2019 Flare-On Challenge Writeups: Challenge 1 and 2"
 permalink: /posts/flareon6-part-1
 category: CTF
-tags: [reverse-engineering, .Net, windows]
+tags: [reverse-engineering, dotnet, windows]
 ---
 
 - [Challenge 1](#challenge-1)

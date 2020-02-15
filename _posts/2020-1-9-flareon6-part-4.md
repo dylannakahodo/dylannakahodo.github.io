@@ -3,7 +3,7 @@ layout: post
 title: "2019 Flare-on Challenge Writeups: Challenge 5 and Final Thoughts"
 permalink: /posts/flareon6-part-4
 category: CTF
-tags: [reverse-engineering, demoscene, windows]
+tags: [reverse-engineering, windows]
 ---
 
 ## Challenge 5
