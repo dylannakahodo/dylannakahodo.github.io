@@ -29,6 +29,7 @@ icons:                       # show icons in the header, for all possible icons 
   brands-github: "https://github.com/dylannakahodo"
   brands-linkedin: "https://www.linkedin.com/in/dylan-nakahodo/"
   brands-twitter: "https://twitter.com/dylan_nakahodo"
+  brands-keybase: "https://keybase.io/dylannakahodo"
 #  solid-rss: ""
 
 comments:                    # embed disqus or isso comments
