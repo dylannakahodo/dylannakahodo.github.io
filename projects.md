@@ -9,3 +9,4 @@ This page will contain various projects I'm working on or have worked on. It wil
 Stay tuned for updates
 
 - [PWK and OSCP Prep](/projects/pwk-oscp-prep)
+- [Cryptopals Solutions](/projects/cryptopals-solutions)
