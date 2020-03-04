@@ -3,7 +3,7 @@ layout: page
 title: "About"
 ---
 
-My name is Dylan Nakahodo and I'm seeking a Security Analyst role. I attended the University of Hawaii at Manoa where I graduated with a degree in Computer Engineering. This is my personal blog where I'll publish writeups and anything I find interesting.
+My name is Dylan Nakahodo and I'm seeking a role in cyber security. I attended the University of Hawaii at Manoa where I graduated with a degree in Computer Engineering. This is my personal blog where I'll publish writeups and anything I find interesting.
 
 Some topics of interest of mine are reverse-engineering, network and web pentesting, programming, and electronics/hardware.
 
