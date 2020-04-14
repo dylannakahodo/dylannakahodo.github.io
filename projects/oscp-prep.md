@@ -8,9 +8,11 @@ This page will serve as a living document and list of resources I'll be using as
 
 ## 4/13/20
 
-## eLearnSecurity PTP Update
+### eLearnSecurity PTP Update
 
 I was able to finish the PTP course and started working on the labs; however, after trying out a few of the labs, decided that it wasn't to my liking. So instead of taking the eCPPT exam, I will sign up for HTB VIP and focus on TJnull's OSCP-like machines and also sign up for the PWK.
+
+I also found a new notetaking app that I like more than CherryTree, which is [Joplin](https://joplinapp.org/).
 
 ## 2/13/20
 
