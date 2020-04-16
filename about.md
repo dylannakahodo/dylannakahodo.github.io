@@ -25,9 +25,9 @@ B.S. Computer Engineering - University of Hawaii at Manoa
 
 ### Extras
 
-[CTF Team 2020 (CTFTime)](https://ctftime.org/team/106764)
+[Solo CTF Team (CTFTime)](https://ctftime.org/team/62698)
 
-[CTF Solo Team 2019 (CTFTime)](https://ctftime.org/team/62698)
+[CTF Team (CTFTime)](https://ctftime.org/team/106764)
 
 [HackTheBox](https://www.hackthebox.eu/profile/35547)
 
