@@ -9,21 +9,21 @@ Some topics of interest of mine are reverse-engineering, network and web pentest
 
 In my free time, I enjoy participating in [CTFs](https://ctfd.io/whats-a-ctf/), [HackTheBox](https://www.hackthebox.eu/), and learning about different security related topics.
 
-### Work
+## Work
 
 Previous: [Stack Overflow](https://stackoverflow.com/) - Helpdesk/IT Support
 
-### Certifications
+## Certifications
 
 GIAC Security Essentials (GSEC): Dec. 2018 - Dec. 2022
 
 GIAC Certified Incident Handler (GCIH): Feb. 2019 - Feb. 2023
 
-### Education
+## Education
 
 B.S. Computer Engineering - University of Hawaii at Manoa
 
-### Extras
+## Extras
 
 [Solo CTF Team (CTFTime)](https://ctftime.org/team/62698)
 
@@ -31,6 +31,6 @@ B.S. Computer Engineering - University of Hawaii at Manoa
 
 [HackTheBox](https://www.hackthebox.eu/profile/35547)
 
-### Contact
+## Contact
 
 You can reach me via my socials or by email at contact@_firstnamelastname_.dev
