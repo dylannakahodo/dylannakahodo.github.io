@@ -8,5 +8,6 @@ This page will contain various projects I'm working on or have worked on. It wil
 
 Stay tuned for updates
 
+- [Security Resources I Use](/projects/security-resources)
 - [PWK and OSCP Prep](/projects/pwk-oscp-prep)
 - [Cryptopals Solutions](/projects/cryptopals-solutions)
