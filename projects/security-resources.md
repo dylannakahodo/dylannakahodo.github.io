@@ -8,13 +8,40 @@ This page contains all the resources I am currently using or plan to use for var
 
 ## Malware Analysis
 
+### Books
+
+### Practice
+
+### Extras
+
 ## Reverse Engineering
+
+### Books
+
+### Practice
+
+### Extras
 
 ## Exploit Development
 
+### Books
+
+### Practice
+
+### Extras
+
 ## Pentesting
+
+### Books
+
+### Practice
+
+### Extras
 
 ## Bug Bounties and Web Stuff
 
+### Books
 
+### Practice
 
+### Extras
