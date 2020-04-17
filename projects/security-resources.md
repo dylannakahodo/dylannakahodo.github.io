@@ -53,8 +53,6 @@ This page contains all the resources I am currently using or plan to use for var
 - [CrackMes](https://crackmes.one/)
 - [Begin.re](https://www.begin.re/the-workshop)
 
-### Extras
-
 ## Exploit Development
 
 ### Books
@@ -84,9 +82,6 @@ This page contains all the resources I am currently using or plan to use for var
 - [HackTheBox](https://www.hackthebox.eu/)
 - [Practical Ethical Hacking by Heath Adams](https://www.udemy.com/course/practical-ethical-hacking/) (Paid Course)
 - [Penetration Testing with Kali (PWK/OSCP)](https://www.offensive-security.com/pwk-oscp/) (Paid Course)
-
-### Extras
-
 
 ## Bug Bounties and Web Stuff
 
