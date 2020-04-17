@@ -4,7 +4,7 @@ title:  "Security Resources I Use"
 permalink: /projects/security-resources
 ---
 
-**Last Updated: 4/16/2020**
+## Last Updated: 4/16/2020
 
 This page contains all the resources I am currently using or plan to use for various topics in security. I will be updating this page periodically as I find new things. 
 
@@ -36,7 +36,6 @@ This page contains all the resources I am currently using or plan to use for var
 - [Website] [theZoo](https://github.com/ytisf/theZoo)
 - [Website] [VirusBay](https://beta.virusbay.io/)
 
-
 ## Reverse Engineering
 
 ### Books
@@ -53,7 +52,7 @@ This page contains all the resources I am currently using or plan to use for var
 - [CrackMes](https://crackmes.one/)
 - [Begin.re](https://www.begin.re/the-workshop)
 
-## Exploit Development
+## Exploit Development/Binary Exploitation
 
 ### Books
 
@@ -64,6 +63,8 @@ This page contains all the resources I am currently using or plan to use for var
 
 - [Pwnable.kr](https://pwnable.kr/)
 - [Exploit.Education](https://exploit.education/)
+- [ROP Emporium](https://ropemporium.com/)
+- [Nightmare Challenges](https://guyinatuxedo.github.io/)
 
 ### Extras
 
