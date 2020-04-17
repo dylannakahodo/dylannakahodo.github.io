@@ -82,7 +82,8 @@ This page contains all the resources I am currently using or plan to use for var
 ### Practice and/or Courses
 
 - [HackTheBox](https://www.hackthebox.eu/)
-- [Practical Ethical Hacking by Heath Adams](https://www.udemy.com/course/practical-ethical-hacking/)
+- [Practical Ethical Hacking by Heath Adams](https://www.udemy.com/course/practical-ethical-hacking/) (Paid Course)
+- [Penetration Testing with Kali (PWK/OSCP)](https://www.offensive-security.com/pwk-oscp/) (Paid Course)
 
 ### Extras
 
@@ -99,7 +100,7 @@ This page contains all the resources I am currently using or plan to use for var
 
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [Hacker101](https://www.hacker101.com/)
-- [PentesterLab](https://pentesterlab.com/)
+- [PentesterLab](https://pentesterlab.com/) (Paid subscription)
 
 ### Extras
 
