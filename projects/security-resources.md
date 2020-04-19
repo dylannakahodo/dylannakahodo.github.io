@@ -102,3 +102,4 @@ This page contains all the resources I am currently using or plan to use for var
 
 - [HackerOne](https://www.hackerone.com/)
 - [BugCrowd](https://www.bugcrowd.com/)
+- [Bug Bounty Hunter Methodology v3](https://www.youtube.com/watch?v=Qw1nNPiH_Go)
