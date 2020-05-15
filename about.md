@@ -3,7 +3,7 @@ layout: page
 title: "About"
 ---
 
-My name is Dylan Nakahodo and I have a passion for security. I attended the University of Hawaii at Manoa where I graduated with a degree in Computer Engineering. This is my personal blog where I'll publish writeups, research, projects, challenges, or whatever else I'm working on.
+My name is Dylan and I have a passion for security. I attended the University of Hawaii at Manoa where I graduated with a degree in Computer Engineering. This is my personal blog where I'll publish writeups, research, projects, challenges, or whatever else I'm working on.
 
 Some topics of interest of mine are reverse-engineering, network and web pentesting, programming, and electronics/hardware.
 
