@@ -6,6 +6,12 @@ permalink: /projects/pwk-oscp-prep
 
 This page will serve as a living document and list of resources I'll be using as I prepare for Offensive Security's [PWK course and OSCP exam](https://www.offensive-security.com/pwk-oscp/)
 
+## 5/15/20
+
+### Hiatus
+
+I'm currently taking a break from prepping for the PWK and OSCP while I deal with some personal things in life.
+
 ## 4/13/20
 
 ### eLearnSecurity PTP Update
