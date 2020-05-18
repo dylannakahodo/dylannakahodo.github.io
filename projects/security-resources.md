@@ -4,7 +4,7 @@ title:  "Security Resources I Use"
 permalink: /projects/security-resources
 ---
 
-## Last Updated: 4/16/2020
+## Last Updated: 5/18/2020
 
 This page contains all the resources I am currently using or plan to use for various topics in security. I will be updating this page periodically as I find new things. 
 
@@ -30,6 +30,7 @@ This page contains all the resources I am currently using or plan to use for var
 
 - [Blog] [Malware Must Die!](https://blog.malwaremustdie.org/)
 - [Blog] [MalwareTech](https://www.malwaretech.com/)
+- [Blog] [HASHEREZADE](http://hshrzd.wordpress.com/)
 - [Tool] [REmnux](https://remnux.org/)
 - [Tool] [Cuckoo Sandbox](https://cuckoosandbox.org/)
 - [Tool] [FLARE VM](https://github.com/fireeye/flare-vm)
