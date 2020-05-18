@@ -5,7 +5,7 @@ title: "About"
 
 My name is Dylan and I have a passion for security. I attended the University of Hawaii at Manoa where I graduated with a degree in Computer Engineering. This is my personal blog where I'll publish writeups, research, projects, challenges, or whatever else I'm working on.
 
-Some topics of interest of mine are reverse-engineering, network and web pentesting, programming, and electronics/hardware.
+Some topics of interest of mine are reverse enginering, network and web pentesting, programming, and hardware.
 
 In my free time, I enjoy participating in [CTFs](https://ctfd.io/whats-a-ctf/), [HackTheBox](https://www.hackthebox.eu/), and learning about different security related topics.
 
