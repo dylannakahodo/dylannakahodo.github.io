@@ -66,6 +66,7 @@ This page contains all the resources I am currently using or plan to use for var
 - [Exploit.Education](https://exploit.education/)
 - [ROP Emporium](https://ropemporium.com/)
 - [Nightmare Challenges](https://guyinatuxedo.github.io/)
+- [HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
 
 ### Extras
 
