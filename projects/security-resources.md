@@ -53,6 +53,11 @@ This page contains all the resources I am currently using or plan to use for var
 - [CrackMes](https://crackmes.one/)
 - [Begin.re](https://www.begin.re/the-workshop)
 
+### Extras
+
+- [Blog][D4stiny's Blog](https://d4stiny.github.io/)
+
+
 ## Exploit Development/Binary Exploitation
 
 ### Books
