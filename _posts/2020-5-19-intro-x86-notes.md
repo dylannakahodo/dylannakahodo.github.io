@@ -136,7 +136,7 @@ Intel / C Naming
 - Assumes main has some registers it wants saved and that the callee wants to use all registers, so the callee-save and caller-save registers are pushed to the stack
 
 
-## r/m32 Addressing Forms
+### r/m32 Addressing Forms
 
 - Anywhere you see an r/m32 it means it could be taking a value either from a register or a memory address
 - In Intel syntax, most of the time square brackets [] means to treat the value within as a memory address, and fetch the value at that address. (Like dereferencing a pointer)
@@ -150,7 +150,7 @@ Intel / C Naming
 	- scale - how big each element is, 1 byte, 4 bytes, etc.
 	- disp - possibly used in multidimensional arrays
 
-## LEA - Load Effective Address
+### LEA - Load Effective Address
 
 - Frequently used with pointer arithmetic
 - Uses the r/m32 form but **is the exception to the rule** that the square brackets [] syntax means dereference ("value at")
@@ -158,7 +158,7 @@ Intel / C Naming
 	- lea EAX, [EDX + EBX*2]
 	- EAX = 0x1004, not the value at 0x1004
 
-## ADD and SUB
+### ADD and SUB
 
 - Adds or subtracts
 - Destination can be r/m32 or register
@@ -167,13 +167,13 @@ Intel / C Naming
 - Evalutes the operation as if it were on signed **and** unsigned data, and sets flags as appropriate.
 	- Modify OF, SF, ZF, AF, PF, and CF flags
 
-## Control Flow
+### Control Flow
 
 - Two forms of control flow
 	- Conditional - go somewhere if some condition is met, if specific flags are set
 	- Unconditional - go somewhere no matter what. Procedure call, goto, exceptions, interrupts
 
-## JMP - Jump
+### JMP - Jump
 
 - Change EIP to the given address
 - Different Forms
@@ -183,7 +183,7 @@ Intel / C Naming
 	- Absolute (hardcoded address in instruction)
 	- Absolute indirect (address calculated with r/m32)
 
-## JCC - Jump if condition is met
+### JCC - Jump if condition is met
 
 - JZ/JE : if ZF == 1
 - JNZ/JNE : if ZF == 0
@@ -192,42 +192,42 @@ Intel / C Naming
 - JBE : if CF == 1 or ZF == 1
 - JB : if CF == 1
 
-## CMP - Compare Two Operands
+### CMP - Compare Two Operands
 
 - Comparison is performed by subtracting the second operand from the first and setting flags, similar to the SUB instruction
 - Difference with SUB, is that CMP doesn't store the result anywhere
 - Modifies CF, OF, SF, ZF, AF, and PF
 
-## TEST - Logical Compare
+### TEST - Logical Compare
 
 - Performs a bit-wise AND of the first and second operand, sets SF, ZF, and PF flags, then discards the results
 
-## AND - Logical AND
+### AND - Logical AND
 
 - Destination operand can be r/m32 or register
 - Source operand can be r/m32 or register or immediate
 - No source AND destination as r/m32
 
 
-## OR - Logical Inclusive OR
+### OR - Logical Inclusive OR
 
 - Destination operand can be r/m32 or register
 - Source operand can be r/m32 or register or immediate
 - No source AND destination as r/m32
 
 
-## XOR - Logical Exclusive OR
+### XOR - Logical Exclusive OR
 
 - Destination operand can be r/m32 or register
 - Source operand can be r/m32 or register or immediate
 - No source AND destination as r/m32
 
 
-## NOT - One's complement negation
+### NOT - One's complement negation
 
 - Single source/destination operand can be r/m32
 
-## SHL - Shift Logical Left
+### SHL - Shift Logical Left
 
 - Can be explicitly used with the C "<<" operator
 - First operand (source and destination) operand is an r/m32
@@ -237,7 +237,7 @@ Intel / C Naming
 - Bits that are shifted off the left hand side are "shifted into" (set) the carry flag (CF)
 
 
-## SHR - Shift Logical Right
+### SHR - Shift Logical Right
 
 - Can be explicitly used with the C ">>" operator
 - First operand (source and destination) operand is an r/m32
@@ -247,7 +247,7 @@ Intel / C Naming
 - Bits that are shifted off the right hand side are "shifted into" (set) the carry flag (CF)
 
 
-## IMUL - Signed Multiply
+### IMUL - Signed Multiply
 
 - Three Forms: One, Two or Three Operands
 	- IMUL r/m32
@@ -259,7 +259,7 @@ Intel / C Naming
 
 
 
-## DIV - Unsigned Divide
+### DIV - Unsigned Divide
 
 - Two Forms
 	- Unsigned divide ax by r/m8.
@@ -269,7 +269,7 @@ Intel / C Naming
 
 
 
-## REP STOS - Repeat Store String
+### REP STOS - Repeat Store String
 
 - All rep operations use ecx register as a counter to determine how many times to loop through the instruction. Each time it executes, it decrements ecx until ecx == 0
 - Either moves one byte at a time or one dword at a time
@@ -279,7 +279,7 @@ Intel / C Naming
 	- set EAX/AL to the value to store
 	- Set ECX to the number of times to store
 
-## REP MOVS - Repeat Move Data String to String
+### REP MOVS - Repeat Move Data String to String
 
 - Either move byte at [ESI] to byte at [EDI] or move dword at [ESI] to dword at [EDI]
 - Moves the esi and edi registers forward one byte or one dword at a
@@ -290,7 +290,7 @@ consecutive locations.
 	- Set EDI to start destination
 	- Set ECX to the number of times to move
 
-## LEAVE - High level procedure exit
+### LEAVE - High level procedure exit
 
 - Set ESP to EBP, then POP EBP
 
@@ -394,7 +394,7 @@ consecutive locations.
 - `continue` or `c` - run until you hit another breakpoint or the program ends
 - `backtrace` or `bt` - print a trace of the call stack, showing all the functions which were called before the current function
 
-## SAR - Shift Arithmetic Right
+### SAR - Shift Arithmetic Right
 
 - Can be explicitly used with the C ">>" operator, if the operands are signed
 - First operand (source and destination) is an r/m32
