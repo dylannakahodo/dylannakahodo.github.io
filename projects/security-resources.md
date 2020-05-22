@@ -4,7 +4,7 @@ title:  "Security Resources I Use"
 permalink: /projects/security-resources
 ---
 
-## Last Updated: 5/18/2020
+## Last Updated: 5/21/2020
 
 This page contains all the resources I am currently using or plan to use for various topics in security. I will be updating this page periodically as I find new things. 
 
@@ -36,6 +36,8 @@ This page contains all the resources I am currently using or plan to use for var
 - [Tool] [FLARE VM](https://github.com/fireeye/flare-vm)
 - [Website] [theZoo](https://github.com/ytisf/theZoo)
 - [Website] [VirusBay](https://beta.virusbay.io/)
+- [Website] [VirusShare](https://virusshare.com/)
+- [Website] [MalwareBazaar](https://bazaar.abuse.ch/)
 
 ## Reverse Engineering
 
