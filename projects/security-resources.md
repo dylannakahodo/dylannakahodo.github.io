@@ -70,6 +70,7 @@ This page contains all the resources I am currently using or plan to use for var
 ### Practice and/or Courses
 
 - [Pwnable.kr](https://pwnable.kr/)
+- [Pwnable.xyz](https://pwnable.xyz/)
 - [Exploit.Education](https://exploit.education/)
 - [ROP Emporium](https://ropemporium.com/)
 - [Nightmare Challenges](https://guyinatuxedo.github.io/)
