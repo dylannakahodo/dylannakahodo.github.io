@@ -58,6 +58,7 @@ This page contains all the resources I am currently using or plan to use for var
 ### Extras
 
 - [Blog][D4stiny's Blog](https://d4stiny.github.io/)
+- [Blog][Secret Club](https://secret.club/)
 
 
 ## Exploit Development/Binary Exploitation
