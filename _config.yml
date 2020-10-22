@@ -20,7 +20,7 @@ navigation:                  # show navigation links in the header
   - archive.md
   - categories.md
   - tags.md
-  - projects.md
+  - resources.md
   - about.md
 
 iconfolder: "//use.fontawesome.com/releases/v5.6.3/svgs/"
