@@ -4,7 +4,7 @@ title:  "Security Resources I Use"
 permalink: /projects/security-resources
 ---
 
-## Last Updated: 5/21/2020
+## Last Updated: 11/3/2020
 
 This page contains all the resources I am currently using or plan to use for various topics in security. I will be updating this page periodically as I find new things. 
 
@@ -76,6 +76,7 @@ This page contains all the resources I am currently using or plan to use for var
 - [ROP Emporium](https://ropemporium.com/)
 - [Nightmare Challenges](https://guyinatuxedo.github.io/)
 - [HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
+- [pwn.college](https://pwn.college/)
 
 ### Extras
 
