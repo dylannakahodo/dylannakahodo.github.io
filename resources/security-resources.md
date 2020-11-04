@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Security Resources I Use"
-permalink: /projects/security-resources
+permalink: /resources/security-resources
 ---
 
 ## Last Updated: 11/3/2020

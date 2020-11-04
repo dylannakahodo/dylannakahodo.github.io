@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "PWK/OSCP Prep"
-permalink: /projects/pwk-oscp-prep
+permalink: /resources/pwk-oscp-prep
 ---
 
 This page will serve as a living document and list of resources I'll be using as I prepare for Offensive Security's [PWK course and OSCP exam](https://www.offensive-security.com/pwk-oscp/)
