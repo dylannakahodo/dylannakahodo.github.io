@@ -96,6 +96,13 @@ This page contains all the resources I am currently using or plan to use for var
 - [Practical Ethical Hacking by Heath Adams](https://www.udemy.com/course/practical-ethical-hacking/) (Paid Course)
 - [Penetration Testing with Kali (PWK/OSCP)](https://www.offensive-security.com/pwk-oscp/) (Paid Course)
 
+## Blue Team Stuff
+
+### Practice and/or Courses
+
+- [CyberDefenders](https://cyberdefenders.org/)
+    - SIEM, Threat Hunting, PCAP, Reverse Engineering, Memory Forensics
+
 ## Bug Bounties and Web Stuff
 
 ### Books
