@@ -15,7 +15,7 @@ Previous: [Stack Overflow](https://stackoverflow.com/) - Helpdesk/IT Support
 
 ## Certifications
 
-Blue Team Junior Analyst (Security Blue Team): Nov. 2020
+Security Blue Team - Blue Team Junior Analyst: Nov. 2020
 
 GIAC Security Essentials (GSEC): Dec. 2018 - Dec. 2022
 
