@@ -7,9 +7,7 @@ tags: [reverse-engineering, python, flareon7]
 ---
 
 ## Challenge 1 - Fidler
-
 ## Description
-
 > Welcome to the Seventh Flare-On Challenge!
 >
 >This is a simple game. Win it by any means necessary and the victory screen will reveal the flag. Enter the flag here on this site to score and move on to the next level.
