@@ -3,7 +3,7 @@ layout: post
 title: "2019 Flare-on Challenge Writeups: Challenge 4"
 permalink: /posts/flareon6-part-3
 category: CTF
-tags: [reverse-engineering, linux, networking, pcap]
+tags: [reverse-engineering, linux, networking, pcap, flareon6]
 ---
 
 ## Challenge 4 

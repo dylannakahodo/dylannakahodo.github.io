@@ -3,7 +3,7 @@ layout: post
 title: "2019 Flare-on Challenge Writeups: Challenge 3"
 permalink: /posts/flareon6-part-2
 category: CTF
-tags: [reverse-engineering, android]
+tags: [reverse-engineering, android, flareon6]
 ---
 
 ## Challenge 3
