@@ -7,6 +7,16 @@ tags: [reverse-engineering, python, flareon7]
 ---
 
 ## Challenge 1 - Fidler
+
+## Contents
+- [Description](#description)
+- [Tools Used](#tools-used)
+- [Solution](#solution)
+    - [fidler.py - decode_flag and victory_screen](#fidlerpy---decode_flag-and-victory_screen)
+    - [Token Calculation](#token-calculation)
+    - [Solution Script](#solution-script)
+    - [Flag](#flag)
+
 ## Description
 > Welcome to the Seventh Flare-On Challenge!
 >
@@ -113,5 +123,7 @@ target_amount = (2**36) + (2**35)
 token = int(target_amount / 10**8)
 print(decode_flag(token))
 ```
+
+### Flag
 Running the above script prints out our flag: `idle_with_kitty@flare-on.com`
 
