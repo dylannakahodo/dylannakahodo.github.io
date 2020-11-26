@@ -14,12 +14,16 @@ tags: [reverse-engineering, python, flareon7]
 >
 >This challenge is written in Python and is distributed as a runnable EXE and matching source code for your convenience. You can run the source code directly on any Python platform with PyGame if you would prefer.
 
+## Tools Used
+- Python 3/IDLE
+
 ## Solution
 In this challenge we were given the following directories and files:
 
 Directories:
 - fonts
 - img
+
 Files: 
 - controls.py
 - fidler.exe
@@ -27,7 +31,7 @@ Files:
 
 `fonts` and `img` contained the various assets for the game, `controls.py` looks like it handles events in the UI, `fidler.exe` is the game executable, and `fidler.py` contains the python source code for the game.
 
-## fidler.py - decode_flag and victory_screen
+### fidler.py - decode_flag and victory_screen
 ```python
 def decode_flag(frob):
     last_value = frob
