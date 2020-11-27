@@ -7,16 +7,6 @@ tags: [reverse-engineering, python, flareon7]
 ---
 
 ## Challenge 1 - Fidler
-
-## Contents
-- [Description](#description)
-- [Tools Used](#tools-used)
-- [Solution](#solution)
-    - [fidler.py - decode_flag and victory_screen](#fidlerpy---decode_flag-and-victory_screen)
-    - [Token Calculation](#token-calculation)
-    - [Solution Script](#solution-script)
-    - [Flag](#flag)
-
 ## Description
 > Welcome to the Seventh Flare-On Challenge!
 >
@@ -24,10 +14,20 @@ tags: [reverse-engineering, python, flareon7]
 >
 >This challenge is written in Python and is distributed as a runnable EXE and matching source code for your convenience. You can run the source code directly on any Python platform with PyGame if you would prefer.
 
+## Contents
+- [Tools Used](#tools-used)
+- [Solution](#solution)
+    - [fidler.py - decode_flag and victory_screen](#fidlerpy---decode_flag-and-victory_screen)
+    - [Token Calculation](#token-calculation)
+    - [Solution Script](#solution-script)
+    - [Flag](#flag)
+
 ## Tools Used
 - Python 3/IDLE
 
 ## Solution
+> tl;dr: Find victory condition in source code, run `decode_flag` with hard-coded victory condition. 
+
 In this challenge we were given the following directories and files:
 
 Directories:
