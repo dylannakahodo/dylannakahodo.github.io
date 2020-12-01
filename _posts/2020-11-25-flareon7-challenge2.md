@@ -13,6 +13,7 @@ tags: [reverse-engineering, windows, flareon7]
 ## Contents
 - [Tools Used](#tools-used)
 - [Solution](#solution)
+    - [Intro](#intro)
 - [References](#references)
 
 ## Tools Used
@@ -21,4 +22,5 @@ tags: [reverse-engineering, windows, flareon7]
 - [UPX](https://upx.github.io/)
 
 ## Solution
+### Intro
 > tl;dr: Fix corrupted executable by 
