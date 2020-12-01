@@ -17,6 +17,7 @@ tags: [reverse-engineering, python, flareon7]
 ## Contents
 - [Tools Used](#tools-used)
 - [Solution](#solution)
+    - [Intro](#intro)
     - [fidler.py - decode_flag and victory_screen](#fidlerpy---decode_flag-and-victory_screen)
     - [Token Calculation](#token-calculation)
     - [Solution Script](#solution-script)
@@ -26,6 +27,7 @@ tags: [reverse-engineering, python, flareon7]
 - Python 3/IDLE
 
 ## Solution
+### Intro
 > tl;dr: Find victory condition in source code, run `decode_flag` with hard-coded victory condition. 
 
 In this challenge we were given the following directories and files:
