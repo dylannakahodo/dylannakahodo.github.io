@@ -44,6 +44,8 @@ Files:
 `fonts` and `img` contained the various assets for the game, `controls.py` looks like it handles events in the UI, `fidler.exe` is the game executable, and `fidler.py` contains the python source code for the game.
 
 ### fidler.py - decode_flag and victory_screen
+The decode_flag function calculates the final flag using `frob`, which is some token that gets passed to the `victory_screen` function. But how is the token calculated?
+
 ```python
 def decode_flag(frob):
     last_value = frob
@@ -91,7 +93,7 @@ def victory_screen(token):
         pg.display.flip()
         clock.tick(30)
 ```
-The decode_flag function calculates the final flag using `frob`, which is some token that gets passed to the `victory_screen` function. But how is the token calculated?
+In the `game_screen` function in fidler.py, we find that the token is calculated based on the `current_coins` and `target_amount` values. We now have enough information to calculate the flag.
 
 ### Token Calculation
 ```python
@@ -103,7 +105,6 @@ while not done:
             victory_screen(int(current_coins / 10**8))
             return
 ```
-In the `game_screen` function in fidler.py, we find that the token is calculated based on the `current_coins` and `target_amount` values. We now have enough information to calculate the flag.
 
 ### Solution Script
 ```python
