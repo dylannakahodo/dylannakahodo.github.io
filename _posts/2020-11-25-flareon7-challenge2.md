@@ -15,17 +15,22 @@ tags: [reverse-engineering, windows, flareon7]
 - [Solution](#solution)
     - [Intro](#intro)
     - [Initial Analysis](#initial-analysis)
+    - [Finding and Fixing Truncation](#finding-and-fixing-truncation)
+    - [Unpacking and Fixing Imports](#unpacking-and-fixing-imports)
+    - [Another Broken Manifest](#another-broken-manifest)
+    - [Flag](#flag)
 - [References](#references)
 
 ## Tools Used
 - PE Explorer
 - [PEBear](https://hshrzd.wordpress.com/pe-bear/)
 - [UPX](https://upx.github.io/)
-- [HxD]
+- HxD
+- CFF Explorer
 
 ## Solution
 ### Intro
-> tl;dr: Fix corrupted executable by TODO
+> tl;dr: Fix truncated binary with padding, unpack with UPX and fix import table, remove application manifest, run binary.
 
 In this challenge we were given a single file, `garbage.exe`.
 
@@ -40,6 +45,8 @@ Attempting to run the file results in an error. Though this is expected, as the 
 <p align="center" markdown="1">
 ![StartError](/assets/flareon7_2020//garbage/StartError.png)
 </p>
+
+### Finding and Fixing Truncation
 
 Let's open up the file in a hex editor and take a look.
 
@@ -73,7 +80,53 @@ Now the binary runs, but we get a different error...
 ![SideBySideError](/assets/flareon7_2020//garbage/SideBySideError.png)
 </p>
 
+### Unpacking and Fixing Imports
+
 The next thing I try is unpacking the binary with UPX and once again opening it in PE-Bear.
 
 I unpack the binary with the following command: `upx.exe -d .\garbage_fixed_manifest.exe`
 
+<p align="center" markdown="1">
+![BrokenImports](/assets/flareon7_2020//garbage/BrokenImports.png)
+</p>
+
+Now I see that the import table is also broken, clicking on **NameRVA** will give hints to the name of the imports we need...
+
+<p align="center" markdown="1">
+![ShellExecute](/assets/flareon7_2020//garbage/ShellExecute.png)
+</p>
+
+<p align="center" markdown="1">
+![UnhandledExceptionFilter](/assets/flareon7_2020//garbage/UnhandledExceptionFilter.png)
+</p>
+
+Looking up `ShellExecuteA` and `UnhandledExceptionFilter` we find that they are part of `Shell32.dll` and `Kernel32.dll` respectively. 
+
+So I rename the missing imports and save the file as `garbage_fixed_imports.exe`
+
+<p align="center" markdown="1">
+![FixedImports](/assets/flareon7_2020//garbage/FixedImports.png)
+</p>
+
+However, trying to run the binary still results in the "side-by-side" error.
+
+### Another Broken Manifest
+
+I open the binary in CFF Explorer and notice the application manifest is cut off again. 
+
+<p align="center" markdown="1">
+![CorruptedManifest](/assets/flareon7_2020//garbage/CorruptedManifest.png)
+</p>
+
+This time, I delete it completely and save the binary as `garbage_fixed_imports_and_manifest.exe`.
+
+### Flag
+The binary finally runs sucessfully and we are presented with the flag.
+
+The binary actually writes a vbs script (`sink_the_tanker.vbs`) to the current directory and runs it. The vbs script just contains the code to display the pop-up with the winning text.
+
+<p align="center" markdown="1">
+![Win](/assets/flareon7_2020//garbage/Win.png)
+</p>
+
+Flag: `C0rruptGarbag3@flare-on.com`
