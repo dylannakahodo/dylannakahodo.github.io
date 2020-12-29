@@ -27,7 +27,7 @@ iconfolder: "//use.fontawesome.com/releases/v5.6.3/svgs/"
 icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/
 #  solid-envelope: ""
   brands-github: "https://github.com/dylannakahodo"
-  brands-linkedin: "https://www.linkedin.com/in/dylan-nakahodo/"
+#  brands-linkedin: ""
   brands-twitter: "https://twitter.com/dylan_nakahodo"
   brands-keybase: "https://keybase.io/dylannakahodo"
 #  solid-rss: ""
