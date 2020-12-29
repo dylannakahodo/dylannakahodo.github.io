@@ -5,11 +5,13 @@ title: "About"
 
 My name is Dylan and this is my personal blog where I'll publish writeups, research, projects, challenges, or whatever else I'm working on.  I attended the University of Hawaii at Manoa where I graduated with a degree in Computer Engineering.
 
-Some topics of interest of mine are reverse enginering, exploit dev and vulnerability research, and malware analysis. 
+Some topics of interest of mine are reverse enginering, exploit dev and vulnerability research, network and web app pentesting.
 
-In my free time, I enjoy participating in [CTFs](https://ctfd.io/whats-a-ctf/), [HackTheBox](https://www.hackthebox.eu/), and learning about different security related topics.
+I enjoy participating in the occassional CTF, HackTheBox, and bug bounties. Pretty much anything that lets me dive in and get my hands dirty.
 
 ## Work
+
+Current: Data Security Analyst
 
 Previous: [Stack Overflow](https://stackoverflow.com/) - Helpdesk/IT Support
 
@@ -42,10 +44,6 @@ B.S. Computer Engineering - University of Hawaii at Manoa
 - Penetration Testing Professional
 
 ## Extras
-
-[Solo CTF Team (CTFTime)](https://ctftime.org/team/62698)
-
-[CTF Team (CTFTime)](https://ctftime.org/team/106764)
 
 [HackTheBox](https://www.hackthebox.eu/profile/35547)
 
