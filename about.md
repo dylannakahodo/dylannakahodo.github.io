@@ -38,6 +38,11 @@ B.S. Computer Engineering - University of Hawaii at Manoa
 
 - Penetration Testing Professional
 
+[SANS](https://www.sans.org)
+
+- SEC 401: Security Essentials Style Bootcamp
+- SEC 504: Hacker Tools, Techniques, Exploits, and Incident Handling
+
 ## Extras
 
 [HackTheBox](https://www.hackthebox.eu/profile/35547)
