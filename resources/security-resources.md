@@ -4,7 +4,7 @@ title:  "Security Resources I Use"
 permalink: /resources/security-resources
 ---
 
-## Last Updated: 11/3/2020
+## Last Updated: 1/11/2021
 
 This page contains all the resources I am currently using or plan to use for various topics in security. I will be updating this page periodically as I find new things. 
 
@@ -59,6 +59,10 @@ This page contains all the resources I am currently using or plan to use for var
 
 - [Blog][D4stiny's Blog](https://d4stiny.github.io/)
 - [Blog][Secret Club](https://secret.club/)
+- [Blog][Reverse Engineering a Router](http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/)
+    - Series of blog posts walking through how to reverse engineer a Huawei HG533 router
+- [Youtube][Reverse Engineering with Ghidra](https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi)
+    - Playlist of lectures from HackadayU's course "Reverse Engineering with Ghidra"
 
 
 ## Exploit Development/Binary Exploitation
