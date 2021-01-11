@@ -6,7 +6,7 @@ permalink: /resources/security-resources
 
 ## Last Updated: 1/11/2021
 
-This page contains all the resources I am currently using or plan to use for various topics in security. I will be updating this page periodically as I find new things. 
+This page contains all the resources I found useful or that look interesting for different topics in security that interest me. I'll update this page periodically as I find new things.
 
 ## Malware Analysis
 
