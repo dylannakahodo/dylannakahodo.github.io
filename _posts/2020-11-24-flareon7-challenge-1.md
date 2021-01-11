@@ -2,7 +2,7 @@
 layout: post
 title: "2020 Flare-On Challenge 1 Writeup: Fidler"
 permalink: posts/flareon7-challenge-1
-category: ctf
+category: CTF
 tags: [reverse-engineering, python, flareon7]
 ---
 
