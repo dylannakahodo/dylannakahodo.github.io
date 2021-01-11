@@ -57,11 +57,11 @@ This page contains all the resources I found useful or that look interesting for
 
 ### Extras
 
-- [Blog][D4stiny's Blog](https://d4stiny.github.io/)
-- [Blog][Secret Club](https://secret.club/)
-- [Blog][Reverse Engineering a Router](http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/)
+- [Blog] [D4stiny's Blog](https://d4stiny.github.io/)
+- [Blog] [Secret Club](https://secret.club/)
+- [Blog] [Reverse Engineering a Router](http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/)
     - Series of blog posts walking through how to reverse engineer a Huawei HG533 router
-- [Youtube][Reverse Engineering with Ghidra](https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi)
+- [Youtube] [Reverse Engineering with Ghidra](https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi)
     - Playlist of lectures from HackadayU's course "Reverse Engineering with Ghidra"
 
 
@@ -120,6 +120,7 @@ This page contains all the resources I found useful or that look interesting for
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [Hacker101](https://www.hacker101.com/)
 - [PentesterLab](https://pentesterlab.com/) (Paid subscription)
+- [BugBountyHunter](http://bugbountyhunter.com/) (Free and Paid)
 
 ### Extras
 
