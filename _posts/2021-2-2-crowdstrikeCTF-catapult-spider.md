@@ -7,10 +7,17 @@ tags: [osint]
 ---
 Catapult Spider is a ransomware adversary.
 > Rabid fans of the memetacular Doge and the associated crypto currency, CATAPULT SPIDER are trying to turn their obsession into a profit. Watch out for your cat pictures, lest CATAPULT SPIDER intrude your networks and extort them for Dogecoin.
+<p align="center" markdown="1">
+![CatapultSpider](/assets/crowdstrikeCTF/catapultspider.jpg)
+</p>
 
 
 ## Much Sad
 ### Description
+<p align="center" markdown="1">
+![MuchSadDescription](/assets/crowdstrikeCTF/much-sad-description.png)
+</p>
+
 >We have received some information that CATAPULT SPIDER has encrypted a client's cat pictures and successfully extorted them for a ransom of 1337 Dogecoin. The client has provided the ransom note, is there any way for you to gather more information about the adversary's online presence?
 
 For this challenge, we're given a ransom note called, `much_sad.txt`, the contents of the file is below.
@@ -69,3 +76,23 @@ This challenge asks us to gather more information on the adversary's online pres
 
 At the bottom of the ransom note is an email address, `shibegoodboi@protonmail.com`, so I search the username `shibegoodboi` online and see what I can find.
 
+The first result on Google is a Twitter account: `https://twitter.com/shibegoodboi`
+
+<p align="center" markdown="1">
+![ShibeTwitter](/assets/crowdstrikeCTF/shibe-twitter.png)
+</p>
+
+In the profile, there is a link to a Github page: `https://github.com/shibefan`
+
+<p align="center" markdown="1">
+![ShibeGithub](/assets/crowdstrikeCTF/shibe-github.png)
+</p>
+
+Checking out the first repo (shibefan.github.io) and navigating through some of the files leads us to the flag in `index.html`:
+
+<p align="center" markdown="1">
+![ShibeIndex](/assets/crowdstrikeCTF/shibe-index.png)
+</p>
+
+
+Flag: `CS{shibe_good_boi_doge_to_the_moon}`
