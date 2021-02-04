@@ -94,5 +94,19 @@ Checking out the first repo (shibefan.github.io) and navigating through some of 
 ![ShibeIndex](/assets/crowdstrikeCTF/shibe-index.png)
 </p>
 
+```html
+<html>
+  <head>
+    <title>1 DOGE = 1 DOGE</title>
+  </head>
+  <body>
+    <p>1 DOGE = 1 DOGE</p>
+    <p>D7sUiD5j5SzeSdsAe2DQYWQgkyMUfNpV2v</p>
+    <p>CS{shibe_good_boi_doge_to_the_moon}</p>
+    <img src="https://shibefan.github.io/Taka_Shiba.jpg">
+  </body>
+</html>
+```
+
 
 Flag: `CS{shibe_good_boi_doge_to_the_moon}`
