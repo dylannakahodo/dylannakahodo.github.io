@@ -94,6 +94,7 @@ Checking out the first repo (shibefan.github.io) and navigating through some of 
 ![ShibeIndex](/assets/crowdstrikeCTF/shibe-index.png)
 </p>
 
+#### index.html
 ```html
 <html>
   <head>
