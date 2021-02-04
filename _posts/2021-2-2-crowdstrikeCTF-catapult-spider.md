@@ -20,7 +20,7 @@ Catapult Spider is a ransomware adversary.
 
 >We have received some information that CATAPULT SPIDER has encrypted a client's cat pictures and successfully extorted them for a ransom of 1337 Dogecoin. The client has provided the ransom note, is there any way for you to gather more information about the adversary's online presence?
 
-For this challenge, we're given a ransom note called, `much_sad.txt`, the contents of the file is below.
+For this challenge, we're given a ransom note called, `much_sad.txt`([Download](https://github.com/dylannakahodo/CTF-Resources/blob/main/Crowdstrike%20CTF/Catapult%20Spider/much_sad.txt)), the contents of the file is below.
 
 ```
 +------------------------------------------------------------------------------+

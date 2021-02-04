@@ -19,4 +19,4 @@ Space Jackal is a hacktivist adversary.
 
 >A mysterious file appeared on a deep dark web forum. Can you figure out what we can't see right now?
 
-For this challenge, we're given a file called `proclamation.dat`
+For this challenge, we're given a file called `proclamation.dat` ([Download](https://github.com/dylannakahodo/CTF-Resources/blob/main/Crowdstrike%20CTF/Space%20Jackal/proclamation.dat))
