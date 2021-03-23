@@ -4,7 +4,7 @@ title:  "Security Resources I Use"
 permalink: /resources/security-resources
 ---
 
-## Last Updated: 1/11/2021
+## Last Updated: 3/22/2021
 
 This page contains all the resources I found useful or that look interesting for different topics in security that interest me. I'll update this page periodically as I find new things.
 
@@ -106,6 +106,8 @@ This page contains all the resources I found useful or that look interesting for
 
 - [CyberDefenders](https://cyberdefenders.org/)
     - SIEM, Threat Hunting, PCAP, Reverse Engineering, Memory Forensics
+- [Blue Team Labs Online](https://blueteamlabs.online/)
+    - Incident Response, Digital Forensics, and Threat Hunting.
 
 ## Bug Bounties and Web Stuff
 
