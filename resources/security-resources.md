@@ -4,7 +4,7 @@ title:  "Security Resources I Use"
 permalink: /resources/security-resources
 ---
 
-## Last Updated: 4/27/2021
+## Last Updated: 5/12/21
 
 This page contains all the resources I found useful or that look interesting for different topics in security that interest me. I'll update this page periodically as I find new things.
 
@@ -123,7 +123,8 @@ This page contains all the resources I found useful or that look interesting for
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [Hacker101](https://www.hacker101.com/)
 - [PentesterLab](https://pentesterlab.com/) (Paid subscription)
-- [BugBountyHunter](http://bugbountyhunter.com/) (Free and Paid)
+- [BugBountyHunter](https://bugbountyhunter.com/) (Free and Paid)
+- [CTFChallenge](https://ctfchallenge.com/)
 
 ### Extras
 
