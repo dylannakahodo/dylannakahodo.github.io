@@ -41,6 +41,7 @@ B.S. Computer Engineering - University of Hawaii at Manoa
 [SANS](https://www.sans.org)
 
 - SEC 401: Security Essentials Style Bootcamp
+- SEC 450: Blue Team Fundamentals: Security Operations and Analysis
 - SEC 504: Hacker Tools, Techniques, Exploits, and Incident Handling
 
 ## Extras
